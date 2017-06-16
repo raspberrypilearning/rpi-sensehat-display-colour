@@ -1,12 +1,12 @@
-title: rpi-sensehat-display-colour
+title: Displaying a colour on the Sense HAT
 hero_image: images/banner.png
-description: rpi-sensehat-display-colour description
+description: Learn how to display a colour on the Sense HAT's LED display
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: cc-prototype
 duration: 1 # 1, 2 or 3
 listed: false
-ingredient: false
+ingredient: true
 interests: "jokes/pranks, sports, art/design, photography, games, outside/weather/nature, space, animals, music/sound"
-technologies: "scratch, python, html/css, micro:bit"
+technologies: "python"
 steps:
   - title: Step one
