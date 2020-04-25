@@ -1,4 +1,4 @@
-+ In a Python file, type in the following code:
++ Typ de volgende code in een Python-bestand:
 
 ```python
 from sense_hat import SenseHat
@@ -12,17 +12,17 @@ b = 255
 sense.clear((r, g, b))
 ```
 
-+ Save and run your code. The LED matrix will then go bright white.
++ Bewaar en voer je code uit. De LED-matrix wordt dan helderwit.
 
-+ The variables `r`, `g`, and `b` represent the colours red, green, and blue. Their values specify how bright each colour should be; each value can be between `0` and `255`. In the above code, the maximum value for each colour has been used, so the result is white.
++ De variabelen `r`, `g`en `b` vertegenwoordigen de kleuren rood, groen en blauw. Hun waarden specificeren hoe helder elke kleur moet zijn; elke waarde kan tussen `0` en `255` liggen. In de bovenstaande code is de maximale waarde voor elke kleur gebruikt, dus het resultaat is wit.
 
-+ You can also define all three RGB values of a colour using a single line of code:
++ Je kunt ook alle drie de RGB-waarden van een kleur definiëren met behulp van een enkele coderegel:
 
 ```python
 red = (255,0,0)
 ```
  <iframe src="https://trinket.io/embed/python/a588ddedcf" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark"></iframe>
 
-+ Change the value of one of the colours, then run the code again. What do you see?
++ Wijzig de waarde van een van de kleuren en voer de code opnieuw uit. Wat zie je?
 
-+ Which other colours can you make?
++ Welke andere kleuren kun je maken?
