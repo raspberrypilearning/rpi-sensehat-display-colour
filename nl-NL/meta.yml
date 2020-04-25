@@ -1,0 +1,14 @@
+---
+title: Een kleur weergeven op de Sense HAT
+hero_image: images/banner.png
+description: Leer hoe je een kleur kunt weergeven op het LED-display van de Sense HAT
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+listed: false
+ingredient: true
+copyedit: false
+interests: ""
+technologies: "python, sense hat"
+steps:
+  - title: Stap een
