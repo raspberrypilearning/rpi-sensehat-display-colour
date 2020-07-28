@@ -1,0 +1,15 @@
+---
+title: Mostrando un color en el Sense HAT
+hero_image: images/banner.png
+description: Aprende cómo mostrar un color en la pantalla LED de Sense HAT
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+listed: false
+ingredient: true
+copyedit: false
+interests: ""
+technologies: "python, sense hat"
+steps:
+  - 
+    title: Primer paso
