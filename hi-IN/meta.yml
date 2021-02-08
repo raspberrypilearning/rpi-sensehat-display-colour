@@ -1,0 +1,14 @@
+---
+title: Sense hat पर एक रंग प्रदर्शित करना.
+hero_image: images/banner.png
+description: Sense hat की LED display पर रंग प्रदर्शित करना सीखें.
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+listed: false
+ingredient: true
+copyedit: false
+interests: ""
+technologies: "python, sense hat"
+steps:
+  - title: पहला चरण
