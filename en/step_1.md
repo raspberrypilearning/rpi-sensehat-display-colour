@@ -22,7 +22,11 @@ sense.clear((r, g, b))
 red = (255,0,0)
 ```
 
-<iframe src="https://trinket.io/embed/python/a588ddedcf" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/rpi-sensehat-display-colour-example" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+If you see a white smiley face, click **Run** again.
+
+[Open this code in the Code Editor](https://editor.raspberrypi.org/en/projects/rpi-sensehat-display-colour-example){:target="_blank"}
 
 + Change the value of one of the colours, then run the code again. What do you see?
 
