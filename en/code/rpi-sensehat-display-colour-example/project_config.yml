@@ -1,0 +1,4 @@
+name: "Sense HAT display colour"
+identifier: "rpi-sensehat-display-colour-example"
+type: 'python'
+build: true
